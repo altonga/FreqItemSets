@@ -13,6 +13,8 @@ I implemented three different solutions:
 2. Brute Force using Pandas
 3. FP Growth Algorithm as part of Spark MLLib
 
+All the code has passed `flake8` criteria.
+
 ---
 # Solution 1: Apriori Algorithm
 
